@@ -1,0 +1,15 @@
+name: prassist_app
+description: PRAssist mobile client (minimal scaffold)
+version: 0.0.1
+publish_to: none
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  flutter_markdown: ^0.6.12
+
+flutter:
+  uses-material-design: true
