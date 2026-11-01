@@ -8,7 +8,19 @@ PRAssist.ai is a mobile-first AI assistant that helps developers and engineering
 The system combines **GitLab**, **Microsoft Teams notifications**, a **Node.js backend**, **Ollama + Mistral 7B**, and a **Flutter mobile application** into one lightweight workflow.
 
 
-<video src="km_20260903-1_1440p_15f_20260903_160752.mp4#t=30" autoplay loop muted playsinline width="100%"></video>
+<div align="center">
+  <img src="assets/pr_assist_demo.gif" alt="PRAssist.ai Mobile Demo" width="340" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="assets/pr_assist_snap_100.png" width="30%" alt="Review Dashboard" />
+  &nbsp;
+  <img src="assets/pr_assist_snap_300.png" width="30%" alt="PR Analysis" />
+  &nbsp;
+  <img src="assets/pr_assist_snap_600.png" width="30%" alt="Verdict Engine" />
+</div>
 ---
 
 ## 🚀 Why PRAssist.ai?
